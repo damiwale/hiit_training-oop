@@ -1,0 +1,41 @@
+newname = "Ade" #string
+newcount = 50 #interger
+newcount = 50.8 #float
+isactive = true #boolean
+isactive = false #boolean
+
+listoffruits = ["Mango", "orange", 3,4,6] #list
+profile = {"name": "Tunji", "age": 30} #Dictionary
+tuple = (10,20,40) #Tuple
+newset = {2, 5, 6, 7, 8, 9}
+
+
+
+firstvariable = "Hello, World"
+#string
+firstvariable = 20
+#interger
+classname = "HIIT python class"
+class_name = "HIIT python class"
+
+
+float = 40.4
+#floats
+
+complexnumber = 10 + 20j
+
+Booleanvariable = true
+Booleanvariable = False
+
+
+print(firstvariable)
+
+name = "Bola"
+name1 = "Alice"
+name2 = "Bob"
+
+print(name)
+print(name1)
+
+
+
